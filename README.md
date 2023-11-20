@@ -1,5 +1,13 @@
 # ethminer
 
+
+
+https://github.com/LiChengxin007/ethminer14.1/assets/36986406/a310e5c1-e77f-46e8-8efc-bc2610f4ba3e
+
+
+
+
+
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)][Gitter]
 [![Releases](https://img.shields.io/github/downloads/ethereum-mining/ethminer/total.svg)][Releases]
