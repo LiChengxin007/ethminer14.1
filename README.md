@@ -1,8 +1,11 @@
 # ethminer
 
+https://github.com/LiChengxin007/ethminer14.1/assets/36986406/18d63253-831b-493b-b6ac-d1225ff011cc
 
 
-https://github.com/LiChengxin007/ethminer14.1/assets/36986406/a310e5c1-e77f-46e8-8efc-bc2610f4ba3e
+
+
+
 
 
 
